@@ -1,0 +1,20 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+canvas {
+    background-color: #87CEEB;
+    border: 3px solid #ffffff;
+    border-radius: 8px;
+}
